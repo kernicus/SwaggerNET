@@ -1,0 +1,10 @@
+D:\Documents and Settings\Pattonk1\My Documents\Visual Studio 2008\Projects\SwaggerNet\SwaggerNet\bin\Debug\SwaggerNet.dll
+D:\Documents and Settings\Pattonk1\My Documents\Visual Studio 2008\Projects\SwaggerNet\SwaggerNet\bin\Debug\SwaggerNet.pdb
+D:\Documents and Settings\Pattonk1\My Documents\Visual Studio 2008\Projects\SwaggerNet\SwaggerNet\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Pattonk1\My Documents\Visual Studio 2008\Projects\SwaggerNet\SwaggerNet\obj\Debug\SwaggerNet.dll
+D:\Documents and Settings\Pattonk1\My Documents\Visual Studio 2008\Projects\SwaggerNet\SwaggerNet\obj\Debug\SwaggerNet.pdb
+C:\Users\Kernicus\Documents\projects2\SwaggerNet\SwaggerNet\bin\Debug\SwaggerNet.dll
+C:\Users\Kernicus\Documents\projects2\SwaggerNet\SwaggerNet\bin\Debug\SwaggerNet.pdb
+C:\Users\Kernicus\Documents\projects2\SwaggerNet\SwaggerNet\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kernicus\Documents\projects2\SwaggerNet\SwaggerNet\obj\Debug\SwaggerNet.dll
+C:\Users\Kernicus\Documents\projects2\SwaggerNet\SwaggerNet\obj\Debug\SwaggerNet.pdb
